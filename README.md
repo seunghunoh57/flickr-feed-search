@@ -10,4 +10,5 @@ Run locally by first downloading the compressed file. After decompressing, navig
 > npm run start
 ```
 
+
 The website should be hosted at https://localhost:8080
